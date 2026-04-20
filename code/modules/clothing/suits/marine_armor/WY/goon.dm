@@ -8,6 +8,7 @@
 	flags_armor_protection = BODY_FLAG_CHEST
 	flags_cold_protection = BODY_FLAG_CHEST
 	flags_heat_protection = BODY_FLAG_CHEST
+	min_cold_protection_temperature = ICE_PLANET_MIN_COLD_PROT
 	item_state_slots = list(WEAR_JACKET = "armor")
 	lamp_icon = "lamp"
 	lamp_light_color = LIGHT_COLOR_TUNGSTEN
